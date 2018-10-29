@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_message">欢迎</string>
+    <string name="main_button">按钮</string>
+    <string name="main_text1">input:</string>
+    <string name="main_edit_text">here is message</string>
+    <string name="call_title">输出信息</string>
+    <string name="call_button1">返回</string>
+    <string name="setting_edit">input settings</string>
+    <string name="setting_submit">确定</string>
+    <string name="tytle_back">返回</string>
+    <string name="tytle_option">选项</string>
+</resources>
